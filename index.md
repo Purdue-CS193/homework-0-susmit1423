@@ -1,4 +1,8 @@
-## Welcome to Susmit's Page
+## Susmit's First CS193 Homework
+
+- I love Arman Kumar
+- I love Arman Kumar
+- I love Arman Kumar
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
